@@ -1,0 +1,24 @@
+{
+  "name": "recast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylandjian/recastBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylandjian/recastBot/issues"
+  },
+  "homepage": "https://github.com/dylandjian/recastBot#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.3.0",
+    "monk": "^4.0.0",
+    "recastai": "^3.1.1"
+  }
+}
